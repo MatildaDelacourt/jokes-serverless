@@ -1,13 +1,10 @@
-# Serverless Functions
+# Serverless - Jokes
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [Check out Dave' YouTube Channel with all of his tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+
+✅ [Here is the video for this project - Serverless Functions](https://www.youtube.com/watch?v=J7RKx8f4Frs).
 
 **Description:**
 
-In this tutorial, we build serverless functions with JavaScript and utilize continuous deployment with GitHub and Netlify.
-
-YouTube: [Serverless Functions](https://youtu.be/J7RKx8f4Frs)
-
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+Here we have a site where you have jokes appearing every 10 seconds or so, trying to get a smile or laugh out of you.
+Hope it serves its purpose :bowtie: 😆
